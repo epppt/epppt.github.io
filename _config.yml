@@ -85,10 +85,10 @@ author:
   bio              : "A Postdoc in the Institute for Software Research at Carnegie Mellon's School of Computer Science, expert in Case Study and Mixed-methods Research and Coordination in software teams"
   location         : "Pittsburgh, Philadelphia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than"
+  researchgate     : "https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than"
   uri              :
   bitbucket        :
   codepen          :
