@@ -1,15 +1,13 @@
 ---
-title: "The 2nd Workshop on Hacking and Making at Time-Bounded Events"
+title: "The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current trends and next steps in research and event design."
 collection: publications
 permalink: /publication/2018-CHI-workshop
 excerpt: 'Hackathons or Hackathon-style events, describe increasingly popular time-bounded intensive events across different fields and sectors. Often cited examples of hackathons include the demanding overnight competitive coding events, but there are many design variations for different audiences and with divergent aims. They offer a new form of collaboration by affording explicit, predictable, time-bounded spaces for interdependent work and engaging with new audiences. This one-day workshop will bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences. Empirical insights from studying these events may help position the CHI community to better study, plan and design hackathon-style events and socio-technical systems that support new modes of production and collaboration.'
-date: 2009-04-01
-venue: 'ACM CHI Extended Abstract 2018'
-paperurl: 'http://eipapa.github.io/files/2018-CHI-workshop.pdf'
-
+venue: 'ACM CHI Extended Abstract'
+date: 2018-04-01
 ---
 
-[Download paper here](http://eipapa.github.io/files/2018-CHI-workshop.pdf)
+<a href="http://eipapa.github.io/files/2018-CHI-workshop.pdf">Download PDF here.</a>
 
 **Abstract**: Hackathons or Hackathon-style events, describe increasingly popular time-bounded intensive events across different fields and sectors. Often cited examples of hackathons include the demanding overnight competitive coding events, but there are many design variations for different audiences and with divergent aims. They offer a new form of collaboration by affording explicit, predictable, time-bounded spaces for interdependent work and engaging with new audiences. This one-day workshop will bring together researchers, experienced event organizers, and practitioners to share and discuss their practical experiences. Empirical insights from studying these events may help position the CHI community to better study, plan and design hackathon-style events and socio-technical systems that support new modes of production and collaboration.
 
