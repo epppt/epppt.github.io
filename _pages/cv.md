@@ -74,5 +74,5 @@ Work experience
 Peer-Reviewed Journals Publications
 ======
   <ol reversed="reversed">
-  <li><strong>Pe Than, E.P.P.,</strong> Herbsleb, J., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A., and Wilkins-Diehr, N. (2018). &quot;The 2nd workshop on hacking and making at time-bounded events: Current trends and next steps in research and event design.&quot;  <em>In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems</em>, Paper No.: W35 (pp. 1-8). <a style="line-height: 1.5;" href="https://doi.org/10.1145/3170427.3170615">https://doi.org/10.1145/3170427.3170615</a></li>
+  <li><strong>Pe Than, E.P.P.,</strong> Herbsleb, J., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A., and Wilkins-Diehr, N. (2018). &quot;The 2nd workshop on hacking and making at time-bounded events: Current trends and next steps in research and event design.&quot;  <em>In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems</em>, Paper No.: W35 (pp. 1-8). <a style="color: black;" href="https://doi.org/10.1145/3170427.3170615">https://doi.org/10.1145/3170427.3170615</a></li>
   </ol>
