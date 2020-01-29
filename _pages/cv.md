@@ -14,7 +14,7 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
 <p style="line-height: 1.5;" align="center"><span>eipapapt at  cs.cmu.edu | <a href="https://eipapa.github.io/">https://eipapa.github.io/</a> | <a href="https://twitter.com/eipapapt">@eipapapt</a> | <a href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a></span></p>
 
-
+<br>
 
 Education
 ======
@@ -31,7 +31,7 @@ Education
 * **M.Sc. in Information Systems, Nanyang Technological University, Singapore**, 2009
 * **B.Sc.(Hons) in Computer Science, University of Computer Studies, Yangon, Myanmar**, 2005
 
-
+<br>
 
 Work experience
 ======
