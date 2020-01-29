@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Hello! I'm Ei Pa, a postdoctoral associate at the [Institute for Software Research (ISR)] (https://www.isri.cmu.edu/) in Carnegie Mellon University (CMU)’s School of Computer Science (SCS). My advisor is [James Herbsleb] (https://herbsleb.org/).
 
 My research spans across the fields of Computer Science, Software Enginering, and Computer-Supported Cooperative Work (CSCW). My current research at CMU broadly covers large-group collaboration in a networked digital environment. The collaborations that I have studied to date have taken place either:
