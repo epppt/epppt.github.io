@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ei Pa Pa Pe-Than"
   avatar           : "profile.png"
-  bio              : "Postdoc at Carnegie Mellon University(CMU)'s School of Computer Science(SCS)'s <a style='color: cardinal;' href='https://www.isri.cmu.edu/'>Institute for Software Research(ISR)</a>. Coordination in software teams & Case Study and Mixed-methods Research"
+  bio              : "Postdoc at Carnegie Mellon University(CMU)'s School of Computer Science(SCS)'s <a style='color: darkred;' href='https://www.isri.cmu.edu/'>Institute for Software Research(ISR)</a>. Coordination in software teams & Case Study and Mixed-methods Research"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
