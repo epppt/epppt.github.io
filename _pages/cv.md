@@ -15,6 +15,7 @@ redirect_from:
 <p style="line-height: 1.5;" align="center"><span>eipapapt at  cs.cmu.edu | <a href="https://eipapa.github.io/">https://eipapa.github.io/</a> | <a href="https://twitter.com/eipapapt">@eipapapt</a> | <a href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a></span></p>
 
 
+
 Education
 ======
 * **Postdoctoral Researcher, Carnegie Mellon University, Pittsburgh, PA**
@@ -29,6 +30,7 @@ Education
   
 * **M.Sc. in Information Systems, Nanyang Technological University, Singapore**, 2009
 * **B.Sc.(Hons) in Computer Science, University of Computer Studies, Yangon, Myanmar**, 2005
+
 
 
 Work experience
@@ -63,6 +65,7 @@ Work experience
   * University of Computer Studies, Yangon, Myanmar
   * Duties included: Conducted lectures on the following undergraduate level courses: 1) Fundamentals of Data Structure and 2) Operating Systems
 
+<br>
 
 Peer-Reviewed Journals Publications
 ======
