@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<u><a style="line-height: 1.5;" href="http://eipapa.github.io/files/2018-CHI-workshop.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
+
+<a style="line-height: 1.5;" href="http://eipapa.github.io/files/2018-CHI-workshop.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a>
 
 
 <h1 class="western" align="center"><b>Ei Pa Pa Pe-Than</b></h1>
