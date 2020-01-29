@@ -6,7 +6,7 @@ excerpt: 'Hackathons or Hackathon-style events, describe increasingly popular ti
 date: 2009-04-01
 venue: 'ACM CHI Extended Abstract 2018'
 paperurl: 'http://eipapa.github.io/files/2018-CHI-workshop.pdf'
-citation: 'Pe Than, E. P. P., Herbsleb, J., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A. & Wilkins-Diehr, N. (2018, April). &quot;The 2nd workshop on hacking and making at time-bounded events: Current trends and next steps in research and event design.&quot; <i>In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems<i>, Paper No.: W35 (pp. 1-8)</i>.'
+citation: 'Pe Than, E. P. P., Herbsleb, J., Nolte, A., Gerber, E., Fiore-Gartland, B., Chapman, B., Moser, A. & Wilkins-Diehr, N. (2018, April). &quot;"The 2nd workshop on hacking and making at time-bounded events: Current trends and next steps in research and event design."&quot; <i>In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems<i>, Paper No.: W35 (pp. 1-8).'
 ---
 
 [Download paper here](http://eipapa.github.io/files/2018-CHI-workshop.pdf)
