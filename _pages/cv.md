@@ -14,7 +14,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Ei Pa Pa Pe-Than</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span>eipapapt at  cs.cmu.edu | <a style="color=#000000;" href="https://eipapa.github.io/">https://eipapa.github.io/</a> | <a style="color=#000000;" href="https://twitter.com/eipapapt">@eipapapt</a> | <a style="color=#000000;" href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>| <a style="color=#000000;" href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a></span></p>
+<p style="line-height: 1.5;" align="center"><span>eipapapt at  cs.cmu.edu | <a style="color=#000000;" href="https://eipapa.github.io/">https://eipapa.github.io/</a> | <a style="color: #333333;" href="https://twitter.com/eipapapt">@eipapapt</a> | <a style="color=#333333;" href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>| <a style="color=#333333;" href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a></span></p>
 
 <br>
 
@@ -22,7 +22,7 @@ Education
 ======
 * **Postdoctoral Researcher, Carnegie Mellon University, Pittsburgh, PA**
   * **Date**: June 2020 (expected)
-  * **Research**: Large-group collabroation in a networked digital environment
+  * **Research**: Coordination and collaboration 
   * **Advisor**: Prof James Herbsleb, Institute for Software Reserch, School of Computer Science
   
 * **Ph.D in Information Science, Nanyang Technological University, Singapore**
