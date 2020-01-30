@@ -14,7 +14,7 @@ redirect_from:
 
 <h1 class="western" align="center"><b>Ei Pa Pa Pe-Than</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
-<p style="line-height: 1.5;" align="center"><span>eipapapt at  cs.cmu.edu | <a style="color=#000000;" href="https://eipapa.github.io/">https://eipapa.github.io/</a> | <a style="color: #333333;" href="https://twitter.com/eipapapt">@eipapapt</a> | <a style="color=#333333;" href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>| <a style="color=#333333;" href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a></span></p>
+<p style="line-height: 1.5;" align="center"><span>eipapapt at  cs.cmu.edu | <a style="color: #3d3d3d;" href="https://eipapa.github.io/">https://eipapa.github.io/</a> | <a style="color: #3d3d3d;" href="https://twitter.com/eipapapt">@eipapapt</a> | <a style="color: #3d3d3d;" href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>| <a style="color: #3d3d3d;" href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a></span></p>
 
 <br>
 
