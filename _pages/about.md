@@ -3,12 +3,12 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<p><span style="color: c41e3a">I am on the job market. Hire me!</span></p>
+<p><span style="color: c41e3a; text-align:center"><strong>I am on the job market. Hire me!</strong></span></p>
 
 Hello there! I'm Ei Pa, a postdoctoral associate at <a style="color: #c41e3a;" href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon University’s School of Computer Science. My advisor is <a style="color: #c41e3a;" href="https://herbsleb.org/">James Herbsleb</a>.
 
