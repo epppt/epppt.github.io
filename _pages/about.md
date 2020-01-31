@@ -11,7 +11,7 @@ redirect_from:
 
 Hello there! I'm Ei Pa, a postdoctoral associate at <a style="color: #c41e3a;" href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon University’s School of Computer Science. My advisor is <a style="color: #c41e3a;" href="https://herbsleb.org/">James Herbsleb</a>.
 
-My research spans across the fields of computer-supported cooperative Work (CSCW), science and technology studies (STS) and human-computer interaction (HCI). My current research investigates large-scale coordination and collaboration in software teams that are existing or newly formed, working in an extremely compressed time scale, building software or non-software artifacts in a distributed, decentralized world, using mixed-methods case study research approach. The types of collaboration that I have studied to date take place:
+My research spans across the fields of computer-supported cooperative work (CSCW), science and technology studies (STS) and human-computer interaction (HCI). My current research investigates large-scale coordination and collaboration in software teams that are existing or newly formed, working in an extremely compressed time scale, building software or non-software artifacts in a distributed, decentralized world, using mixed-methods case study research approach. The types of collaboration that I have studied to date take place:
 * in open-text projects where people on the Web who may or may not be a part of the core authorship group co-produce text artifacts, and
 * in events known as hackathons, datathons, etc. on GitHub, where teams of programmers or designers work on developing projects that they are interested in
 
