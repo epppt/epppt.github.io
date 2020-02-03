@@ -11,11 +11,11 @@ redirect_from:
 
 Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I work with <a href="https://herbsleb.org/">James Herbsleb</a>.
 
-My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop distributed decentralized software systems to support productive cooperation, reinterpretability, resilience, and scalability.
+My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop distributed decentralized software systems to support productive coordination, reinterpretability, resilience, and scalability.
 
 I use Case Study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
 
-My current research broadly covers large-scale coordination in software teams that are either existing or newly formed, working in an extremely compressed time scale and from various geographical locations, building software or non-software artifacts, using various tools and platforms. The coordination that I have studied to date has taken place either:
+My current research broadly covers large-scale coordination in software teams that are existing or newly formed, distributed or collocated, building software or non-software artifacts, working in an extremely compressed time scale. The coordination that I have studied to date has taken place either:
 * in events known as hackathons, datathons, etc. on GitHub, where teams of programmers or designers work on developing projects that they are interested in
 * in open-text projects where people on the Internet who may or may not be a part of the core authorship group co-produce text artifacts
 
