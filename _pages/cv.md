@@ -1,3 +1,15 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.2;" align="center">
   <span>eipa [at] cmu [dot] edu</span> |
