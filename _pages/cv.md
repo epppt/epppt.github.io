@@ -13,9 +13,9 @@
 <h2>Research Interests and Approach</h2>
 <hr>
 <div align="left">
-My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop distributed decentralized software systems to support productive coordination, reinterpretability, resilience, and scalability.
-<br><br>
-I use Case Study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
+My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve an innovative distributed decentralized software system that builds on a sophisticated coordination model that addresses reinterpretability, resilience, and scalability.<br>
+<br>
+I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
 </div>
 
 <br>
@@ -144,9 +144,9 @@ Conference Travel Grant<br>
 
   <li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. "Collaborative Writing at Scale: Investigation of Pull-Based Model on GitHub." <span style="color: #CC002B">[Under the review of CSCW 2020]</span></li><br>
 
-  <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "Designing Corporate Hackathons with a Purpose." <em>IEEE Software, 36 </em>(1), 15-22. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
-
   <li>Nolte, A., <strong>Pe-Than, E.P.P.</strong>, Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "You Hacked and Now What?: - Exploring Outcomes of a Corporate 	Hackathon." In <em>Proceedings of the ACM on Human Computer Interaction, 2 </em>(CSCW’18), Article 129, 23 pages. <a style="color: #4D4D4D" href="https://doi.org/10.1145/3274398">https://doi.org/10.1145/3274398</a></li><br>
+
+  <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "Designing Corporate Hackathons with a Purpose." <em>IEEE Software, 36 </em>(1), 15-22. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
 </ol>
 </div>
 
@@ -170,15 +170,15 @@ Conference Travel Grant<br>
 <h3>Selected Other Publications</h3>
 <div>
 <ol style="line-height: 1.2; margin: 10px 0;" reversed="reversed">
-<li><strong>Pe-Than, E.P.P.</strong>, Momcheva, I., Tollerud, E., and Herbsleb, J.D. (2019). Hackathons for Science, How and Why? <em>Poster presented at the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, </em>id.459.11. <a style="color: #4D4D4D;" href="https://ui.adsabs.harvard.edu/abs/2019AAS...23345911P/abstract">https://ui.adsabs.harvard.edu/abs/2019AAS...23345911P/abstract</a></li><br>
+<li><strong>Pe-Than, E.P.P.</strong>, Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). "Hackathons for Science, How and Why?" <em>Poster presented at the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, </em>id.459.11. <a style="color: #4D4D4D;" href="https://ui.adsabs.harvard.edu/abs/2019AAS...23345911P/abstract">https://ui.adsabs.harvard.edu/abs/2019AAS...23345911P/abstract</a></li><br>
 
-<li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. <em>Paper presented at the 7th ACM Conference on Collective Intelligence 2019 (CI'19)</em>. <a style="color: #4D4D4D;" href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf</a></li><br>
+<li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). "Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub." <em>Paper presented at the 7th ACM Conference on Collective Intelligence 2019 (CI'19)</em>. <a style="color: #4D4D4D;" href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf</a></li><br>
 
-<li>Powell, J., Hayden, L., Nolte, A., Herbsleb, J.D., <strong>Pe-Than, E.P.P.</strong>, Wong, M., Kalyanam, R., Ellet, K., Pamidighantam, S., Traxler, K., and Cannon, A. (2018). An Analysis of the PEARC 2018 Science Gateways Community Institute Hackathon: Lessons Learned. <em>Poster presented at Gateways 2018 organized by the Science Gateways Community Institute (SGCI)</em>. <a style="color: #4D4D4D;" href="https://doi.org/10.6084/m9.figshare.7070309.v2">https://doi.org/10.6084/m9.figshare.7070309.v2 </a></li><br>
+<li>Powell, J., Hayden, L., Nolte, A., Herbsleb, J.D., <strong>Pe-Than, E.P.P.</strong>, Wong, M., Kalyanam, R., Ellet, K., Pamidighantam, S., Traxler, K., and Cannon, A. (2018). "An Analysis of the PEARC 2018 Science Gateways Community Institute Hackathon: Lessons Learned." <em>Poster presented at Gateways 2018 organized by the Science Gateways Community Institute (SGCI)</em>. <a style="color: #4D4D4D;" href="https://doi.org/10.6084/m9.figshare.7070309.v2">https://doi.org/10.6084/m9.figshare.7070309.v2 </a></li><br>
 
-<li><strong>Pe-Than, E.P.P.</strong>, and Nolte, A. (2018). The 2nd Workshop on Hacking and Making at Time-Bounded Events. <em>Technical Report CMU-ISR-18-109, Carnegie Mellon University</em>. <a style="color: #4D4D4D;" href="http://eipapa.github.io/files/ISR-techreport-2018.pdf">http://eipapa.github.io/files/ISR-techreport-2018.pdf</a></li><br>
+<li><strong>Pe-Than, E.P.P.</strong>, and Nolte, A. (2018). "The 2nd Workshop on Hacking and Making at Time-Bounded Events." <em>Technical Report CMU-ISR-18-109, Carnegie Mellon University</em>. <a style="color: #4D4D4D;" href="http://eipapa.github.io/files/ISR-techreport-2018.pdf">http://eipapa.github.io/files/ISR-techreport-2018.pdf</a></li><br>
 
-<li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events. <em>Poster presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18)</em>.</li><br>
+<li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). "An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events." <em>Poster presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18)</em>.</li><br>
 
 <li><strong>Pe-Than, E.P.P.</strong>, Goh, D.H.-L., and Lee, C.S. (2017). "Does it matter how you play? The effects of collaboration and competition among players of human computation games." <em>Journal of the Association for Information Science and Technology, 68 </em>(8), 1823-1835. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
 
@@ -196,9 +196,8 @@ Conference Travel Grant<br>
 
 <h2 style="page-break-before: always">Teaching</h2>
 <hr>
+<h3>Nanyang Technological University, Singapore</h3>
 <div>
-<p><em>Nanyang Technological University, Singapore</em></p>
-
 <table style="width:100%">
 <tr>
   <td><strong>Instructor</strong></td>
@@ -209,7 +208,7 @@ Conference Travel Grant<br>
 <tr>
   <td style="width:20%">&nbsp;&nbsp;CI6221</td>
   <td style="width:60%">Information Visualization (cross-listed, graduate)</td>
-  <td style="width:20%">&nbsp;&nbsp;&nbsp;2016-2017</td>
+  <td style="width:20%">&nbsp;&nbsp;&nbsp;Aug 2016</td>
 </tr>
 </table>
 
@@ -217,7 +216,7 @@ Conference Travel Grant<br>
 <tr>
   <td style="width:20%">&nbsp;&nbsp;CI6228</td>
   <td style="width:60%">Managing Information Systems (graduate)</td>
-  <td style="width:20%">&nbsp;&nbsp;&nbsp;2015-2016</td>
+  <td style="width:20%">&nbsp;&nbsp;&nbsp;Jan 2016</td>
 </tr>
 </table>
 
@@ -225,7 +224,7 @@ Conference Travel Grant<br>
 <tr>
   <td style="width:20%">&nbsp;&nbsp;IN9008</td>
   <td style="width:60%">Digital Social Games for Organizations (undergraduate)</td>
-  <td style="width:30%">&nbsp;&nbsp;&nbsp;2014-2015</td>
+  <td style="width:30%">&nbsp;&nbsp;&nbsp;Jan 2015</td>
 </tr>
 </table>
 
@@ -238,29 +237,29 @@ Conference Travel Grant<br>
 
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;CS2008</td>
-  <td style="width:50%">Fundamentals of Research (undergraduate)</td>
-  <td style="width:30%">&nbsp;&nbsp;&nbsp;2013-2014</td>
-</tr>
-<tr>
   <td style="width:20%">&nbsp;&nbsp;IN9006</td>
   <td style="width:50%">Social Computing and Applications (graduate)</td>
-  <td style="width:30%">&nbsp;&nbsp;&nbsp;2013-2014</td>
+  <td style="width:30%">&nbsp;&nbsp;&nbsp;Jan 2014</td>
 </tr>
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;CI6222</td>
-  <td style="width:60%">Mobile & Ubiquitous Applications (graduate)</td>
-  <td style="width:30%">&nbsp;&nbsp;&nbsp;2012-2013</td>
+  <td style="width:20%">&nbsp;&nbsp;CS2008</td>
+  <td style="width:50%">Fundamentals of Research (undergraduate)</td>
+  <td style="width:30%">&nbsp;&nbsp;&nbsp;Aug 2013</td>
 </tr>
 <tr>
   <td style="width:20%">&nbsp;&nbsp;CI6208</td>
   <td style="width:50%">Research Methods and Data Analysis for Information Professionals (graduate)</td>
-  <td style="width:30%;" align="right">&nbsp;&nbsp;&nbsp;2012-2013</td>
+  <td style="width:30%;" align="right">&nbsp;&nbsp;&nbsp;Jan 2013</td>
+</tr>
+<tr>
+  <td style="width:20%">&nbsp;&nbsp;CI6222</td>
+  <td style="width:60%">Mobile & Ubiquitous Applications (graduate)</td>
+  <td style="width:30%">&nbsp;&nbsp;&nbsp;Aug 2012</td>
 </tr>
 </table>
 
 <br>
-<p><em>University of Computer Studies, Yangon</em></p>
+<h3>University of Computer Studies, Yangon</h3>
 
 <table style="width:100%">
 <tr>
@@ -294,50 +293,49 @@ Conference Travel Grant<br>
 </table> -->
 <h3>Reviewing</h3>
 
-<div style="line-height: 1.2; margin: 10px 0;">
+<div style="line-height: 1.5; margin: 10px 0;">
 <table style="width:100%">
 <tr>
-  <td style="width:20%"><strong>&nbsp;&nbsp;2020</strong></td>
+  <td style="width:20%">&nbsp;&nbsp;2020</td>
   <td style="width:80%">
-  iConference<br>
   ECIS: European Conference on Information Systems<br>
-  iConference <br><br>
+  iConference <br>
   </td>
 </tr>
 <tr>
-  <td style="width:20%"><strong>&nbsp;&nbsp;2019</strong></td>
+  <td style="width:20%">2019</td>
   <td style="width:80%">
   ACM CSCW: ACM Conference on Computer-Supported Cooperative Work<br>
   ECIS: European Conference on Information Systems<br>
-  iConference <br><br>
+  iConference <br>
   </td>
 </tr>
 <tr>
-  <td style="width:20%"><strong>&nbsp;&nbsp;2018</strong></td>
+  <td style="width:20%">2018</td>
   <td style="width:80%">
   ACM CHI: ACM Conference on Computer-Human Interaction<br>
   ECIS: European Conference on Information Systems<br>
-  iConference <br><br>
+  iConference <br>
   </td>
 </tr>
 <tr>
-  <td style="width:20%"><strong>&nbsp;&nbsp;2017</strong></td>
+  <td style="width:20%">2017</td>
   <td style="width:80%">
   ACM CHI: ACM Conference on Computer-Human Interaction<br>
-  Journal of Information Science Theory and Practice <br><br>
+  Journal of Information Science Theory and Practice <br>
   </td>
 </tr>
 <tr>
-  <td style="width:20%"><strong>&nbsp;&nbsp;2016</strong></td>
+  <td style="width:20%">2016</td>
   <td style="width:80%">
   Cyberpsychology, Behavior, and Social Networking<br>
-  Aslib Journal of Information Management<br><br>
+  Aslib Journal of Information Management<br>
   </td>
 </tr>
 <tr>
-  <td style="width:20%"><strong>&nbsp;&nbsp;2015</strong></td>
+  <td style="width:20%">2015</td>
   <td style="width:80%">
-  ECIS: European Conference on Information Systems<br><br>
+  ECIS: European Conference on Information Systems<br>
   </td>
 </tr>
 </table>
@@ -355,15 +353,22 @@ Conference Travel Grant<br>
  <div style="line-height: 1.2; margin: 10px 0;">
  <table style="width:100%">
  <tr>
-   <td style="width:20%"><strong>&nbsp;&nbsp;2019</strong></td>
+   <td style="width:20%">2019</td>
    <td style="width:80%">
    World of Code (WoC) hackathon, Carnegie Mellon University
    </td>
  </tr>
  <tr>
-   <td style="width:20%"><strong>&nbsp;&nbsp;2018</strong></td>
+   <td style="width:20%">2018</td>
    <td style="width:80%">
    Science Gateways Hackathon by the Science Gateways Community Institute (SGCI), PEARC18 Conference, Wyndham Grand Pittsburgh<br>
+   </td>
+ </tr>
+ </table>
+ <table style="width:100%">
+ <tr>
+   <td style="width:20%">2018</td>
+   <td style="width:80%">
    ACM Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design, ACM CHI'18, Montreal, Canada<br>
    </td>
  </tr>
@@ -381,19 +386,19 @@ Conference Travel Grant<br>
  <div style="line-height: 1.2; margin: 10px 0;">
  <table style="width:100%">
  <tr>
-   <td style="width:20%"><strong>&nbsp;&nbsp;2016</strong></td>
+   <td style="width:20%">2016</td>
    <td style="width:80%">
    Student Volunteer, The 66th Annual Conference of the International Communication Association (ICA)<br>
    </td>
  </tr>
  <tr>
-   <td style="width:20%"><strong>&nbsp;&nbsp;2011-2013</strong></td>
+   <td style="width:20%">2011-2013</td>
    <td style="width:80%">
    Student Assistant, Graduate Admission Exercise, Wee Kee Wee School of Communicaiton and Information<br>
    </td>
  </tr>
  <tr>
-   <td style="width:20%"><strong>&nbsp;&nbsp;2011</strong></td>
+   <td style="width:20%">2011</td>
    <td style="width:80%">
    Student Volunteer, International Conference on Social Informatics (SocInfo2011)<br>
    </td>
@@ -405,7 +410,7 @@ Conference Travel Grant<br>
 <h2>Professional Associations</h2>
 <hr>
 
-<div style="line-height: 1.2; margin: 10px 0;">
+<div style="line-height: 1.5; margin: 10px 0;">
 <table style="width:100%">
 <tr>
   <td style="width:20%">ACM</td>
