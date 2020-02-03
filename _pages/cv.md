@@ -13,7 +13,7 @@
 <h2>Research Interests and Approach</h2>
 <hr>
 <div align="left">
-My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop distributed decentralized software systems to support productive cooperation, reinterpretability, resilience, and scalability.
+My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop distributed decentralized software systems to support productive coordination, reinterpretability, resilience, and scalability.
 <br><br>
 I use Case Study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
 </div>
@@ -30,7 +30,7 @@ Carnegie Mellon University .....................................................
     <td style="width:80%">
       <strong>Postdoctoral Researcher</strong><br>
       Advisor: James Herbsleb, Institute for Software Research, School of Computer Science<br>
-      Topic: Coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and civic engagement and collaborative writing on GitHub</td>
+      Topic: Coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and community building, and collaborative writing on GitHub</td>
   </tr>
   </table>
   <br>
@@ -76,7 +76,7 @@ Carnegie Mellon University .....................................................
     <td style="width:80%">
       <strong>Postdoctoral Researcher</strong><br>
       Advisor: James Herbsleb, Institute for Software Research, School of Computer Science<br>
-      Topic: Coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and civic engagement and collaborative writing on GitHub</td>
+      Topic: Coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and community building, and collaborative writing on GitHub</td>
   </tr>
   </table>
   <br>
