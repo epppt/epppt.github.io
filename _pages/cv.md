@@ -13,7 +13,7 @@
 <h2>Research Interests and Approach</h2>
 <hr>
 <div align="left">
-My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve an innovative distributed decentralized software system that builds on a sophisticated coordination model that addresses reinterpretability, resilience, and scalability.<br>
+My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination model that addresses reinterpretability, resilience, and scalability.<br>
 <br>
 I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
 </div>

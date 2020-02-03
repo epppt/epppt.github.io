@@ -1,0 +1,38 @@
+h1{
+  font-family: serif;
+  text-align: center;
+}
+
+h1,
+h2{
+  margin-bottom: 1px;
+}
+
+p{
+  font-family: serif;
+  text-align: center;
+}
+
+div{
+  font-family: serif;
+  text-align: justify;
+}
+
+/* hr.new1 {
+  border-top: 1px;
+  border-width: 2px;
+} */
+
+hr {
+    text-align: left;
+    margin: 0.5 auto 0 0;
+    color: #000000;
+}
+
+.word.wrap{
+  word-break: break-all;
+}
+
+td{
+  vertical-align:top;
+}
