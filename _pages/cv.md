@@ -1,4 +1,5 @@
-<!-- This is for pdf CV -->
+<!-- This md is for pdf CV -->
+<!-- md2pdf --css assets/css/cv.css _pages/cv.md files/eipa-cv.pdf -->
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.2;" align="center">
