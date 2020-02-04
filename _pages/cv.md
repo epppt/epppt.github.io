@@ -185,8 +185,6 @@ I use case study research approach to address complex socio-technical questions,
 <ol style="line-height: 1.2; margin: 10px 0; reversed=reversed;">
 <li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). "Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub." Poster presented at the 7th ACM Conference on Collective Intelligence 2019 (CI'19). <a style="color: #4D4D4D;" href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf</a></li><br>
 
-<li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). "Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub." Paper presented at Human Computer Interaction Consortium (HCIC'19). <a style="color: #4D4D4D;" href="http://eipapa.github.io/files/HCIC-poster-2019.pdf">http://eipapa.github.io/files/HCIC-poster-2019.pdf</a></li><br>
-
 <li><strong>Pe-Than, E.P.P.</strong>, Momcheva, I., Tolleud, E., and Herbsleb, J.D. (2019). "Hackathons for Science, How and Why?" Poster presented at the 233rd Meeting of the American Astronomical Society, AAS Meeting #233, id.459.11. <a style="color: #4D4D4D;" href="https://ui.adsabs.harvard.edu/abs/2019AAS...23345911P/abstract">https://ui.adsabs.harvard.edu/abs/2019AAS...23345911P/abstract</a></li><br>
 
 <li>Powell, J., Hayden, L., Nolte, A., Herbsleb, J.D., <strong>Pe-Than, E.P.P.</strong>, Wong, M., Kalyanam, R., Ellet, K., Pamidighantam, S., Traxler, K., and Cannon, A. (2018). "An Analysis of the PEARC 2018 Science Gateways Community Institute Hackathon: Lessons Learned." Poster presented at Gateways 2018 organized by the Science Gateways Community Institute (SGCI). <a style="color: #4D4D4D;" href="https://doi.org/10.6084/m9.figshare.7070309.v2">https://doi.org/10.6084/m9.figshare.7070309.v2 </a></li><br>
@@ -343,13 +341,13 @@ I use case study research approach to address complex socio-technical questions,
   <tr>
    <td style="width:20%">2019</td>
    <td style="width:80%">
-   <a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, <em>Carnegie Mellon University</em>
+   <a href="https://github.com/woc-hack">World of Code (WoC) Hackathon</a>, Carnegie Mellon University
    </td>
   </tr>
   <tr>
    <td style="width:20%">2018</td>
    <td style="width:80%">
-   <a href="https://sciencegateways.org/web/wd/hackathon18">Science Gateways Hackathon by the Science Gateways Community Institute (SGCI)</a>, <em>collocated with PEARC18 Conference</em>, Wyndham Grand Pittsburgh<br>
+   <a href="https://sciencegateways.org/web/wd/hackathon18">Science Gateways Hackathon by the Science Gateways Community Institute (SGCI)</a>, collocated with PEARC18 Conference, Wyndham Grand Pittsburgh<br>
    </td>
   </tr>
   </table>
@@ -357,7 +355,7 @@ I use case study research approach to address complex socio-technical questions,
   <tr>
    <td style="width:20%">2018</td>
    <td style="width:80%">
-   <a href="http://hackathon-workshop-2018.com/">The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design</a>, <em>ACM CHI'18 conference</em>, Montreal, Canada<br>
+   <a href="http://hackathon-workshop-2018.com/">The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design</a>, ACM CHI'18 conference, Montreal, Canada<br>
    </td>
   </tr>
   </table>

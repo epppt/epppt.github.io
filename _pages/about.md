@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p><span style="color: #CC002B"><strong>I am on the job market. Hire me!</strong></span></p>
 
-Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I am an apprentice at the Herbsleb Lab directed by James Herbsleb<a href="https://herbsleb.org/">James Herbsleb</a>.
+Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I am an apprentice at the Herbsleb Lab directed by <a href="https://herbsleb.org/">James Herbsleb</a>.
 
 My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination model that addresses reinterpretability, resilience, and scalability.
 
