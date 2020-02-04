@@ -1,21 +1,23 @@
-h1{
+h1 {
   font-family: serif;
   text-align: center;
 }
 
 h1,
-h2{
+h2 {
   margin-bottom: 1px;
 }
 
-p{
+p {
   font-family: serif;
   text-align: center;
 }
 
-div{
+div {
   font-family: serif;
   text-align: justify;
+  line-height: 1.2;
+  margin: 10px 0;
 }
 
 /* hr.new1 {
@@ -23,16 +25,84 @@ div{
   border-width: 2px;
 } */
 
-hr {
+/* hr{
     text-align: left;
     margin: 0.5 auto 0 0;
     color: #000000;
+} */
+
+/* hr{
+  border-color: black;
+  background-color:black;
+  border-width: 1px;
+} */
+
+/* hr.new1 {
+  border-color: grey;
+  background-color:grey;
+  border-top: 0.1px dotted grey;
+} */
+
+hr {
+  border: 1.2px inset black;
 }
 
-.word.wrap{
+hr.new {
+  border: 0.5px dotted grey;
+}
+
+hr.new1 {
+  border:;
+  border-bottom: 1px dotted black;
+}
+
+.word.wrap {
   word-break: break-all;
 }
 
 td{
   vertical-align:top;
 }
+
+td.new {
+  vertical-align:top;
+  text-align:right;
+}
+
+td.new1 {
+  /* vertical-align:bottom; */
+  text-align:bottom;
+  border-bottom: 1px dotted black;
+}
+
+/* li {
+  display: flex;
+}
+
+li.dots {
+  border-bottom: 1px dotted black;
+  flex: 1;
+} */
+
+/* Reference: https://www.w3.org/Style/Examples/007/leaders.en.html */
+ul.leaders {
+    max-width: 40em;
+    padding: 0;
+    overflow-x: hidden;
+    list-style: none}
+ul.leaders li:before {
+    float: left;
+    width: 0;
+    white-space: nowrap;
+    content:
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . . "
+ ". . . . . . . . . . . . . . . . . . . "}
+ul.leaders span:first-child {
+    padding-right: 0.33em;
+    background: white}
+ul.leaders span + span {
+    float: right;
+    padding-left: 0.33em;
+    background: white}
