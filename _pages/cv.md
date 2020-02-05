@@ -35,7 +35,7 @@ I use case study research approach to address complex socio-technical questions,
   <td style="width:20%">&nbsp;&nbsp;2017&ndash;present</td>
   <td style="width:80%">
     <strong>Postdoctoral Researcher</strong><br>
-    Lab: Herbsleb Lab directed by James Herbsleb, Institute for Software Research, School of Computer Science<br>
+    Advisor: James Herbsleb, Institute for Software Research, School of Computer Science<br>
     Topic: Large-scale coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and community building, and open-text projects on GitHub</td>
 </tr>
 </table>
@@ -94,7 +94,7 @@ I use case study research approach to address complex socio-technical questions,
   <td style="width:20%">&nbsp;&nbsp;2017&ndash;present</td>
   <td style="width:80%">
     <strong>Postdoctoral Researcher</strong><br>
-    Lab: Herbsleb Lab directed by James Herbsleb, Institute for Software Research, School of Computer Science<br>
+    Advisor: James Herbsleb, Institute for Software Research, School of Computer Science<br>
     Topic: Coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and community building, and collaborative writing on GitHub</td>
 </tr>
 </table>

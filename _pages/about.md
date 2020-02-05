@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p><span style="color: #CC002B"><strong>I am on the job market. Hire me!</strong></span></p>
+<p><span style="color: #CC002B"><strong>I'm on the job market, and especially looking for an opportunity to round out my research portfolio. If you know any leads please let me know!</strong></span></p>
 
 Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I am an apprentice at the Herbsleb Lab directed by <a href="https://herbsleb.org/">James Herbsleb</a>.
 
