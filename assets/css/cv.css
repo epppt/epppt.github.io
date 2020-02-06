@@ -106,3 +106,18 @@ ul.leaders span + span {
     float: right;
     padding-left: 0.33em;
     background: white}
+
+    .columnL {
+      float: left;
+      width: 30%;
+    }
+    .columnR {
+      float: left;
+      width: 70%;
+    }
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
