@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p><span style="color: #CC002B"><strong>I'm on the job market, and especially seeking a postdoc/research scientist position to round out my research portfolio. If you know any leads please let me know!</strong></span></p>
+<p><span style="color: #CC002B"><strong>I'm seeking a postdoc/research scientist position to round out my research portfolio. If you know any leads hit me up!</strong></span></p>
 
 Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I am an apprentice at the Herbsleb Lab directed by <a href="https://herbsleb.org/">James Herbsleb</a>.
 
@@ -22,4 +22,4 @@ My current investigation centers on large-scale coordination in software teams t
 
 I received my PhD and MSc in Information Systems from <a href="https://www.ntu.edu.sg">Nanyang Technological University (NTU)</a> in Singapore, and my BSc (Hons) in Computer Science from the University of Computer Studies in Yangon, Myanmar. Before doing PhD at NTU, I spent 13 months employed as an application consultant (software developer) at NCS in Singapore where I involved in the development and maintenance of a health information system built with Microsoft .NET Framework.
 
-For more information about my work, read my most recent publications <a href="https://eipapa.github.io/publications">here</a>.
+If you want to know more about my work, read my most recent publications <a href="https://eipapa.github.io/publications">here</a> and drop me an email at eipa [at] cmu [dot] edu.
