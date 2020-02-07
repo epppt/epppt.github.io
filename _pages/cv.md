@@ -198,7 +198,7 @@ I use case study research approach to address complex socio-technical questions,
 <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). "An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events." Poster presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18).</li><br>
 </ol>
 
-<h3>Selected Publications from Doctoral Research Projects</h3>
+<h3>Selected Publications from Archived Research Projects</h3>
 <ol reversed="reversed">
 <li><strong>Pe-Than, E.P.P.</strong>, Goh, D.H.-L., and Lee, C.S. (2017). "Does it matter how you play? The effects of collaboration and competition among players of human computation games." Journal of the Association for Information Science and Technology (JASIST), 68 (8), 1823-1835. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
 
