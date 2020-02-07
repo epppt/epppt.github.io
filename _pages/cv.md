@@ -78,7 +78,7 @@ I use case study research approach to address complex socio-technical questions,
 <tr>
   <td style="width:20%">&nbsp;&nbsp;2001&ndash;2005</td>
   <td style="width:80%">
-    <strong>Bachelor of Science (Hons.) in Computer Science</strong></td>
+    <strong>Bachelor of Science (Hons) in Computer Science</strong></td>
 </tr>
 </table>
 </div>
