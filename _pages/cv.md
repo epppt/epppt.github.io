@@ -307,7 +307,7 @@ I use case study research approach to address complex socio-technical questions,
 <tr>
   <td style="width:20%">2019</td>
   <td style="width:80%">
-  ACM CSCW: ACM Conference on Computer-Supported Cooperative Work<br>
+  CSCW: ACM Conference on Computer-Supported Cooperative Work<br>
   ECIS: European Conference on Information Systems<br>
   iConference<br>
   </td>
@@ -315,7 +315,7 @@ I use case study research approach to address complex socio-technical questions,
 <tr>
   <td style="width:20%">2018</td>
   <td style="width:80%">
-  ACM CHI: ACM Conference on Computer-Human Interaction<br>
+  CHI: ACM Conference on Computer-Human Interaction<br>
   ECIS: European Conference on Information Systems<br>
   iConference <br>
   </td>
@@ -323,7 +323,7 @@ I use case study research approach to address complex socio-technical questions,
 <tr>
   <td style="width:20%">2017</td>
   <td style="width:80%">
-  ACM CHI: ACM Conference on Computer-Human Interaction<br>
+  CHI: ACM Conference on Computer-Human Interaction<br>
   Journal of Information Science Theory and Practice <br>
   </td>
 </tr>
