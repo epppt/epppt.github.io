@@ -1,5 +1,9 @@
 <!-- This md is for pdf CV -->
 <!-- md2pdf --css assets/css/cv.css _pages/cv.md files/eipa-cv.pdf -->
+---
+<!-- <header>
+  <p style="text-align: right; font-size: 10px; color: #4D4D4D">Page 1 | 6</p>
+</header> -->
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.3;">
@@ -15,8 +19,7 @@
 <h2>Research Interests and Approach</h2>
 <hr>
 <div>
-My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.<br>
-<br>
+My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.<br><br>
 I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as relevant and appropriate.
 </div>
 <br>
@@ -158,6 +161,7 @@ I use case study research approach to address complex socio-technical questions,
 
   <li>Nolte, A., <strong>Pe-Than, E.P.P.</strong>, Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "You Hacked and Now What?: - Exploring Outcomes of a Corporate 	Hackathon." In Proceedings of the ACM on Human Computer Interaction, 2 (CSCW’18), Article 129, 23 pages. <a style="color: #4D4D4D" href="https://doi.org/10.1145/3274398">https://doi.org/10.1145/3274398</a></li><br>
 
+
   <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "Designing Corporate Hackathons with a Purpose." IEEE Software, 36 (1), 15-22. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
 </ol>
 
@@ -262,6 +266,7 @@ I use case study research approach to address complex socio-technical questions,
   <td style="width:50%">Research Methods and Data Analysis for Information Professionals (graduate)</td>
   <td style="width:30%;" class="new">Jan 2013</td>
 </tr>
+
 <tr>
   <td style="width:20%">&nbsp;&nbsp;CI6222</td>
   <td style="width:60%">Mobile & Ubiquitous Applications (graduate)</td>
