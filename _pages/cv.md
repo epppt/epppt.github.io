@@ -187,7 +187,7 @@ I use case study research approach to address complex socio-technical questions,
 
 <h3>Posters</h3>
 <ol style="line-height: 1.2; margin: 10px 0; reversed=reversed;">
-<li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub. <em>Paper presented at The Future of Work, Human Computer Interaction Consortium (HCIC'19)</em>. <a style="color: #4D4D4D;" href="http://eipapa.github.io/files/HCIC-poster-2019.pdf">http://eipapa.github.io/files/HCIC-poster-2019.pdf</a></li><br>
+<li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). "Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub." Paper presented at The Future of Work, Human Computer Interaction Consortium (HCIC'19). <a style="color: #4D4D4D;" href="http://eipapa.github.io/files/HCIC-poster-2019.pdf">http://eipapa.github.io/files/HCIC-poster-2019.pdf</a></li><br>
 
 <li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. (2019). "Collaborative Writing at Scale: A Case Study of Two Open-Text Projects Done on GitHub." Poster presented at the 7th ACM Conference on Collective Intelligence 2019 (CI'19). <a style="color: #4D4D4D;" href="https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf">https://ci.acm.org/2019/assets/proceedings/CI_2019_paper_65.pdf</a> <a style="color: #4D4D4D;" href="http://eipapa.github.io/files/ISR-techreport-2018.pdf">http://eipapa.github.io/files/CI-poster-2019.pdf</a></li><br>
 
@@ -376,7 +376,7 @@ I use case study research approach to address complex socio-technical questions,
  </td>
 </tr>
 <tr>
- <td style="width:20%">2011-2013</td>
+ <td style="width:20%">2011&ndash;2013</td>
  <td style="width:80%">
  Graduate Admission Exercise, Wee Kim Wee School of Communication and Information<br>
  </td>
