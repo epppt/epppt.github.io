@@ -9,33 +9,56 @@
  *  - https://twitter.com/mmistakes
  *
 */
-
+@import "minimal-mistakes/skins/default"; // skin
+@import "minimal-mistakes";
+$link-color: #12DC00;
 @import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
+$link-color: #12DC00;
 @import "mixins";
+$link-color: #12DC00;
 @import "vendor/susy/susy";
 
+$link-color: #12DC00;
 @import "reset";
+$link-color: #12DC00;
 @import "base";
 
+$link-color: #12DC00;
 @import "utilities";
+$link-color: #12DC00;
 @import "animations";
+$link-color: #12DC00;
 @import "tables";
+$link-color: #12DC00;
 @import "buttons";
+$link-color: #12DC00;
 @import "notices";
+$link-color: #12DC00;
 @import "masthead";
+$link-color: #12DC00;
 @import "navigation";
+$link-color: #12DC00;
 @import "footer";
+$link-color: #12DC00;
 @import "syntax";
 
+$link-color: #12DC00;
 @import "forms";
 
+$link-color: #12DC00;
 @import "page";
+$link-color: #12DC00;
 @import "archive";
+$link-color: #12DC00;
 @import "sidebar";
 
+$link-color: #12DC00;
 @import "vendor/font-awesome/fontawesome";
+$link-color: #12DC00;
 @import "vendor/font-awesome/solid";
+$link-color: #12DC00;
 @import "vendor/font-awesome/brands";
+$link-color: #12DC00;
 @import "vendor/magnific-popup/magnific-popup";
+$link-color: #12DC00;
 @import "print";
