@@ -19,6 +19,7 @@ I use case study research approach to address complex socio-technical questions,
 My current investigation centers on large-scale coordination in software teams that are existing or newly formed, distributed or collocated, building software or non-software artifacts, working in an extremely compressed time scale. The coordination that I have studied to date has taken place either:
 * in events known as hackathons, datathons, etc. on GitHub, where teams of programmers or designers work on developing projects that they are interested in
 * in open-text projects where people on the Internet who may or may not be a part of the core authorship group co-produce text artifacts
+
 I received my PhD and MSc in Information Systems from <a href="https://www.ntu.edu.sg">Nanyang Technological University (NTU)</a> in Singapore, and my BSc (Hons) in Computer Science from the University of Computer Studies in Yangon, Myanmar. Before doing PhD at NTU, I spent 13 months employed as an application consultant (software developer) at NCS in Singapore where I involved in the development and maintenance of a health information system built with Microsoft .NET Framework.
 
-If you're interested in my work, read my most recent publications <a href="https://eipapa.github.io/publications">here</a> and/or contact me at <span style="color: #12DC00">eipa [at] cmu [dot] edu</span>.
+<p style="color: #12DC00">If you're interested in my work, read my most recent publications <a href="https://eipapa.github.io/publications">here</a> and/or contact me at eipa [at] cmu [dot] edu</span>.</p>
