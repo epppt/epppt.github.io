@@ -155,9 +155,9 @@ I use case study research approach to address complex socio-technical questions,
 <div>
 <h3>Referred Journal Publications</h3>
 <ol style="line-height: 1.2; margin: 10px 0; reversed=reversed;">
-  <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. "Corporate Hackathons, How and Why? A Multiple Case Study of Motivation, Project Proposal and Selection, Goal Setting, Coordination, and Project Continuation." <span style="color: #CC002B">[Revisions submitted to Human-Computer Interaction Journal]</span></li><br>
+  <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. "Corporate Hackathons, How and Why? A Multiple Case Study of Motivation, Project Proposal and Selection, Goal Setting, Coordination, and Project Continuation." <span style="color: #0EAC00">[Revisions submitted to Human-Computer Interaction Journal]</span></li><br>
 
-  <li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. "Collaborative Writing at Scale: Investigation of Pull-Based Model on GitHub." <span style="color: #CC002B">[Under the review of CSCW 2020]</span></li><br>
+  <li><strong>Pe-Than, E.P.P.</strong>, Dabbish, L., and Herbsleb, J.D. "Collaborative Writing at Scale: Investigation of Pull-Based Model on GitHub." <span style="color: #0EAC00">[Under the review of CSCW 2020]</span></li><br>
 
   <li>Nolte, A., <strong>Pe-Than, E.P.P.</strong>, Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "You Hacked and Now What?: - Exploring Outcomes of a Corporate 	Hackathon." In Proceedings of the ACM on Human Computer Interaction, 2 (CSCW’18), Article 129, 23 pages. <a style="color: #4D4D4D" href="https://doi.org/10.1145/3274398">https://doi.org/10.1145/3274398</a></li><br>
 
