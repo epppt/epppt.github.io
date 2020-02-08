@@ -85,19 +85,19 @@ analytics:
   provider: "custom"
   google:
     tracking_id: "UA-158054044-1"
-    anonymize_ip: true # default
+    anonymize_ip: false # default
 
 analytics:
   provider: "google"
   google:
     tracking_id: "UA-158054044-1"
-    anonymize_ip: true # default
+    anonymize_ip: false # default
 
 analytics:
   provider: "google-universal"
   google:
     tracking_id: "UA-158054044-1"
-    anonymize_ip: true # default
+    anonymize_ip: false # default
 
 
 # Site Author
