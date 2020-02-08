@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Ei Pa Pa Pe-Than"
   avatar           : "eipa.jpg"
-  bio              : "Case study and Mixed-methods research | Large-scale Coordination | Postdoc at Carnegie Mellon's School of Computer Science's <a href='https://www.isri.cmu.edu/'><style>a { &:hover {color: #0EAC00;} }</style>Institute for Software Research (ISR)</a>."
+  bio              : "Case study and Mixed-methods research | Large-scale Coordination | Postdoc at Carnegie Mellon's School of Computer Science's <a href='https://www.isri.cmu.edu/'><style>a { &:hover {color: #0EAC00;} }Institute for Software Research (ISR)</style></a>."
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
