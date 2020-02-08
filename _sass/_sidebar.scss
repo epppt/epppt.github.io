@@ -124,6 +124,14 @@
 .author__bio {
   margin: 0;
 
+  a {
+
+    margin-bottom: 0;
+
+    &:hover {
+      color: #0EAC00;
+    }
+
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
