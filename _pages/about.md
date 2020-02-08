@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -22,4 +23,4 @@ My current investigation centers on large-scale coordination in software teams t
 
 I received my PhD and MSc in Information Systems from <a href="https://www.ntu.edu.sg">Nanyang Technological University (NTU)</a> in Singapore, and my BSc (Hons) in Computer Science from the University of Computer Studies in Yangon, Myanmar. Before doing PhD at NTU, I spent 13 months employed as an application consultant (software developer) at NCS in Singapore where I involved in the development and maintenance of a health information system built with Microsoft .NET Framework.
 
-If you're interested in my work, read my most recent publications <a href="https://eipapa.github.io/publications">here</a> and/or contact me at eipa [at] cmu [dot] edu.
+If you're interested in my work, read <a href="https://eipapa.github.io/publications">my most recent publications</a> and/or contact me at <span style="color: #52adc8">eipa [at] cmu [dot] edu</span>.
