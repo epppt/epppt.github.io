@@ -82,7 +82,7 @@ social:
 #     tracking_id          :
 
 analytics:
-  provider: "custom"
+  provider: "google-gtag"
   google:
     tracking_id: "UA-158054044-1"
     anonymize_ip: false # default
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ei Pa Pa Pe-Than"
+  name             : "<a style='color: #0EAC00;'>Ei Pa Pa Pe-Than</a>"
   avatar           : "eipa.jpg"
   bio              : "Case study and Mixed-methods research | Large-scale Coordination | Postdoc at Carnegie Mellon's School of Computer Science's <a href='https://www.isri.cmu.edu/'>Institute for Software Research(ISR)</a>."
   location         : "Pittsburgh, PA"
