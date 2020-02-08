@@ -7,7 +7,7 @@
 
 # Theme settings
 remote_theme: "mmistakes/minimal-mistakes@4.18.1"
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "default"
 
 # Site Settings
 locale                   : "en-US"
