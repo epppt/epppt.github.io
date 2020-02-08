@@ -130,7 +130,7 @@
   }
 
   a:hover{
-    color: #0EAC00;
+    color: $link-color-hover;
   }
 }
 
@@ -148,7 +148,7 @@
       margin-bottom: 0;
 
       &:hover {
-        color: #0EAC00;
+        color: $link-color-hover;
       }
     }
   }
