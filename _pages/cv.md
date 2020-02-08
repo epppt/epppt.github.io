@@ -1,27 +1,33 @@
 <!-- This md is for pdf CV -->
 <!-- md2pdf --css assets/css/cv.css _pages/cv.md files/eipa-cv.pdf -->
----
 <!-- <header>
-  <p style="text-align: right; font-size: 10px; color: #4D4D4D">Page 1 | 6</p>
+  <table style="width: 100%; border: 0px">
+    <tr style="width: 100%; border: 0px">
+      <td style="width: 45%"><span style="text-align: left; font-size: 12px; color: #4D4D4D;">02/08/2020</span></td>
+      <td style="width: 40%"><span style="text-align: center; font-size: 12px; color: #4D4D4D;">Ei Pa's CV</span></td>
+      <td style="width: 40%"><span style="text-align: right; font-size: 12px; color: #4D4D4D;">Page 1 | 6</span></td>
+    </tr>
+  </table>
 </header> -->
+<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/08/2020</p>
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.3;">
-  <span>eipa [at] cmu [dot] edu</span> |
-  <a href="https://eipapa.github.io/">https://eipapa.github.io/</a> |
-  <a href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a> |
-  <a href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a> |
-  <a href="https://twitter.com/eipa01">@eipa01</a> |
-  <a href="https://github.com/eipapa">GitHub</a>
+  <span style="color: blue">eipa [at] cmu [dot] edu</span> |
+  <a style="color: blue" href="https://eipapa.github.io/">https://eipapa.github.io/</a> |
+  <a style="color: blue" href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a> |
+  <a style="color: blue"  href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a> |
+  <a style="color: blue" href="https://twitter.com/eipa01">@eipa01</a> |
+  <a style="color: blue" href="https://github.com/eipapa">GitHub</a>
 </p>
 <br>
-
+<body style="margin-top: 0.5; margin-top: 0.5; margin-left: 0.5; margin-right: 0.5;">
 <h2>Research Interests and Approach</h2>
 <hr>
-<div>
+<p style="text-align: justify;">
 My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.<br><br>
 I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as relevant and appropriate.
-</div>
+</p>
 <br>
 
 <h2>Education</h2>
@@ -435,3 +441,4 @@ I use case study research approach to address complex socio-technical questions,
   </tr>
   </table>
 </div>
+</body>

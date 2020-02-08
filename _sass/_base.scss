@@ -248,7 +248,8 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
+      // color: #000;
+      color: #0EAC00;
       border-bottom-color: #000;
     }
   }
