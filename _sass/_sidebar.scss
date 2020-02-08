@@ -142,6 +142,10 @@
   li:last-child {
     a {
       margin-bottom: 0;
+
+      &:hover {
+        color: #0EAC00;
+      }
     }
   }
 
