@@ -54,7 +54,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google-site-verification: google5a405703027a84e4.html
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -80,6 +80,12 @@ analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-1234567-8"
+    anonymize_ip: true # default
 
 
 # Site Author
@@ -313,3 +319,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+search: true
