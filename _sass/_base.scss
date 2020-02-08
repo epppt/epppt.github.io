@@ -248,15 +248,10 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      // color: #000;
-      color: #0EAC00;
+      color: #000;
       border-bottom-color: #000;
     }
   }
-}
-
-a.hover{
-  color: green;
 }
 
 /* Fix IE9 SVG bug */
