@@ -97,7 +97,8 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  // border-left: 0.25em solid $primary-color;
+  border-left: 0.25em solid $sustinable-color;
 
   cite {
     font-style: italic;
@@ -290,7 +291,7 @@ nav {
 
   a {
     text-decoration: none;
-    
+
     &:hover {
       // text-decoration: underline;
       color: #0EAC00;
