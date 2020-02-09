@@ -11,9 +11,14 @@ redirect_from:
 
 Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I am an apprentice at the Herbsleb Lab directed by <a href="https://herbsleb.org/">James Herbsleb</a>.
 
-> My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.
+<blockquote style="border-left: 3px solid 0EAC00;">
+<p style="margin-left: 10px;">My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.</p>
+</blockquote>
 
-> I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
+<blockquote style="border-left: 3px solid 0EAC00;">
+<p style="margin-left: 10px;">I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.</p>
+</blockquote>
+
 
 My current investigation centers on large-scale coordination in software teams that are existing or newly formed, distributed or collocated, building software or non-software artifacts, working in an extremely compressed time scale. The coordination that I have studied to date has taken place either:
 * in events known as hackathons, datathons, etc. on GitHub, where teams of programmers or designers work on developing projects that they are interested in
