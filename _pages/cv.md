@@ -41,7 +41,7 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2017&ndash;present</td>
+  <td style="width:20%">&nbsp;&nbsp;Jun 2020<br>&nbsp;&nbsp;(expected)</td>
   <td style="width:80%">
     <strong>Postdoctoral Researcher</strong><br>
     Advisor: James Herbsleb, Institute for Software Research, School of Computer Science<br>
@@ -58,7 +58,7 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2010&ndash;2016</td>
+  <td style="width:20%">&nbsp;&nbsp;Apr 2016</td>
   <td style="width:80%">
     <strong>Doctor of Philosophy in Information Systems</strong><br>
     Advisor: Dion Hoe-Lian Goh and Chei Sian Lee, Wee Kim Wee School of Communication and Information<br>
@@ -67,7 +67,7 @@ I use case study research approach to address complex socio-technical questions,
 <tr>
 </tr>
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2008&ndash;2009</td>
+  <td style="width:20%">&nbsp;&nbsp;Jun 2009</td>
   <td style="width:80%">
     <strong>Master of Science in Information Systems</strong></td>
 </tr>
@@ -82,9 +82,9 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2001&ndash;2005</td>
+  <td style="width:20%">&nbsp;&nbsp;Jun 2005</td>
   <td style="width:80%">
-    <strong>Bachelor of Science (Hons) in Computer Science</strong></td>
+    <strong>Bachelor of Science (Hons.) in Computer Science</strong></td>
 </tr>
 </table>
 </div>
@@ -100,8 +100,8 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2017&ndash;present</td>
-  <td style="width:80%">
+  <td style="width:30%">&nbsp;&nbsp;June 2017&ndash;present</td>
+  <td style="width:70%">
     <strong>Postdoctoral Researcher</strong><br>
     Advisor: James Herbsleb, Institute for Software Research, School of Computer Science<br>
     Topic: Coordination in time-bounded events (hackathons, datathons, etc.) for science, innovation, learning, and community building, and collaborative writing on GitHub</td>
@@ -117,8 +117,8 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2015&ndash;2016</td>
-  <td style="width:80%">
+  <td style="width:30%">&nbsp;&nbsp;Nov 2015&ndash;Nov 2016</td>
+  <td style="width:70%">
     <strong>Research Associate and Part-time Lecturer</strong><br>
   </td>
 </tr>
@@ -133,8 +133,8 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2009&ndash;2010</td>
-  <td style="width:80%">
+  <td style="width:30%">&nbsp;&nbsp;Jun 2009&ndash;Jul 2010</td>
+  <td style="width:70%">
     <strong>Application Consultant</strong> (Software Developer)</td>
 </tr>
 </table>
@@ -148,8 +148,8 @@ I use case study research approach to address complex socio-technical questions,
 </ul>
 <table style="width:100%">
 <tr>
-  <td style="width:20%">&nbsp;&nbsp;2005&ndash;2007</td>
-  <td style="width:80%">
+  <td style="width:30%">&nbsp;&nbsp;2005&ndash;2007</td>
+  <td style="width:70%">
     <strong>Tutor</strong></td>
 </tr>
 </table>
