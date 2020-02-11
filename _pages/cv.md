@@ -9,7 +9,7 @@
     </tr>
   </table>
 </header> -->
-<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/08/2020</p>
+<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/10/2020</p>
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.3;">
@@ -25,7 +25,7 @@
 <h2>Research Interests and Approach</h2>
 <hr>
 <p style="text-align: justify;">
-My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a distributed decentralized software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.<br><br>
+My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a decentralized distributed software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability.<br><br>
 I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as relevant and appropriate.
 </p>
 <br>
@@ -167,8 +167,7 @@ I use case study research approach to address complex socio-technical questions,
 
   <li>Nolte, A., <strong>Pe-Than, E.P.P.</strong>, Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "You Hacked and Now What?: - Exploring Outcomes of a Corporate 	Hackathon." In Proceedings of the ACM on Human Computer Interaction, 2 (CSCW’18), Article 129, 23 pages. <a style="color: #4D4D4D" href="https://doi.org/10.1145/3274398">https://doi.org/10.1145/3274398</a></li><br>
 
-
-  <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "Designing Corporate Hackathons with a Purpose." IEEE Software, 36 (1), 15-22. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
+  <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S., and Herbsleb, J.D. (2018). "Designing Corporate Hackathons with a Purpose." IEEE Software, 36 (1), 15-22. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li>
 </ol>
 
 <h3>Referred Conference Publications</h3>
@@ -398,7 +397,7 @@ I use case study research approach to address complex socio-technical questions,
 <br>
 
 <!-- Research Funding -->
-<h2>Research Funding</h2>
+<h2 style="page-break-before: always">Research Funding</h2>
 <hr>
 <div>
   NTU Doctoral Research scholarship<br>
@@ -440,5 +439,21 @@ I use case study research approach to address complex socio-technical questions,
   <td style="width:80%">Association for Information Science & Technology</td>
   </tr>
   </table>
+</div>
+
+<br>
+<h2>References</h2>
+<hr>
+<div>
+  <strong>James Herbsleb</strong><br>
+  &nbsp;&nbsp;Professor of Computer Science<br>
+  &nbsp;&nbsp;Institute for Software Research<br>
+  &nbsp;&nbsp;School of Computer Science<br>
+  &nbsp;&nbsp;Carnegie Mellon University<br><br>
+
+  <strong>Alexander Nolte</strong><br>
+  &nbsp;&nbsp;Lecturer (Assistant Professor), Institute of Computer Science, University of Tartu<br>
+  &nbsp;&nbsp;Adjunct Assistant Professor, Institute for Software Research, Carnegie Mellon University<br>
+  &nbsp;&nbsp;Carnegie Mellon University<br><br>
 </div>
 </body>
