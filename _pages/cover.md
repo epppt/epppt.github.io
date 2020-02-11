@@ -24,7 +24,7 @@
   Dear Madam/Sir,
   <br><br>
   Please find enclosed my application materials for the position of Postdoc on development of digital competences in higher education in the Center for Computing Education Research at IT University in Copenhagen.
-  <br><br>
+  <br><br><br>
   My areas of interest are computer-supported cooperative work (CSCW), science and technology studies (STS), and critical Human Computer Interaction (HCI), and more specifically how to develop, maintain, and evolve a decentralized distributed software system that builds on a novel and sophisticated coordination architecture that addresses reinterpretability, resilience, and scalability. My work draws from, combines and contributes to the theory of socio-technical systems, community of practices, coordination, and collective intelligence.
   <br><br><br>
   I am a citizen of Myanmar, presently on a J1 research scholar visa in the United States.

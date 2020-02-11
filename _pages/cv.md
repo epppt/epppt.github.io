@@ -9,7 +9,7 @@
     </tr>
   </table>
 </header> -->
-<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/10/2020</p>
+<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/11/2020</p>
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.3;">
@@ -453,7 +453,6 @@ I use case study research approach to address complex socio-technical questions,
 
   <strong>Alexander Nolte</strong><br>
   &nbsp;&nbsp;Lecturer (Assistant Professor), Institute of Computer Science, University of Tartu<br>
-  &nbsp;&nbsp;Adjunct Assistant Professor, Institute for Software Research, Carnegie Mellon University<br>
-  &nbsp;&nbsp;Carnegie Mellon University<br><br>
+  &nbsp;&nbsp;Adjunct Assistant Professor, Institute for Software Research, Carnegie Mellon University<br><br>
 </div>
 </body>
