@@ -65,7 +65,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #52adc8;
-$sustinable-color           : #0EAC00;
+$sustainable-color          : #086400;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -91,9 +91,9 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $sustainable-color;
 // $link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-hover           : #0EAC00;
+$link-color-hover           : $sustainable-color;
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
