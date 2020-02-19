@@ -122,6 +122,7 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color);
+  (reddit, $reddit-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
