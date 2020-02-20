@@ -5,9 +5,12 @@ main:
 
   - title: "CV"
     url: /cv/
-    
-  - title: "Teaching" 
+
+  - title: "Teaching"
     url: /teaching/
+
+  - title: "Hackathon Planning Kit"
+    url: "https://eipapa.github.io/hackathon-research"
 
   - title: "Contact"
     url: /contact/
