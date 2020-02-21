@@ -9,7 +9,7 @@ redirect_from:
 ---
 <!-- <p style="color: #0EAC00"><strong>I'm seeking a postdoc/research scientist position to round out my research portfolio. If you have any leads let me know please!</strong></p> -->
 
-Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I work with <a href="https://herbsleb.org/">James Herbsleb</a>.
+Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.
 
 >My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a decentralized distributed software system that builds on a novel and sophisticated coordination architecture that addresses <span style="color: #0EAC00">reinterpretability, resilience, scalability, and sustainability</span>.
 
