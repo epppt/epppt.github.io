@@ -37,7 +37,7 @@
 </head>
 
 <body style="margin-top: 0.5; margin-top: 0.5; margin-left: 0.5; margin-right: 0.5;">
-<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/18/2020</p>
+<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/21/2020</p>
 
 
 <h1>Ei Pa Pa Pe-Than</h1>
@@ -433,7 +433,7 @@ I use case study research approach to address complex socio-technical questions,
 <br>
 
 <!-- Research Funding -->
-<h2 style="page-break-before: always">Research Funding</h2>
+<!-- <h2>Research Funding</h2>
 <hr>
 <div>
   NTU Doctoral Research scholarship<br>
@@ -451,9 +451,10 @@ I use case study research approach to address complex socio-technical questions,
   &nbsp;&nbsp;Year: 2016<br>
   &nbsp;&nbsp;Amount: S$ 1,000<br>
 </div>
-<br>
+<br> -->
 
 <!-- Professional Services -->
+<!-- style="page-break-before: always" -->
 <h2>Professional Associations</h2>
 <hr>
 <div>
