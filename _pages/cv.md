@@ -407,7 +407,7 @@ I use case study research approach to address complex socio-technical questions,
 <tr>
  <td style="width:20%">2020</td>
  <td style="width:80%">
- The SCS Voting Study Committee<br>
+ Member of the SCS Voting Study Committee<br>
  </td>
 </tr>
 <tr>
