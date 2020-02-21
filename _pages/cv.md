@@ -9,7 +9,36 @@
     </tr>
   </table>
 </header> -->
-<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/11/2020</p>
+<head>
+<!-- <style>
+  .icon::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .login::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f0e0";
+  }
+
+  .tps::before {
+    font-family: "Font Awesome 5 Free"; font-weight: 400; content: "\f1ea";
+  }
+
+  .twitter::before {
+    font-family: "Font Awesome 5 Brands"; content: "\f099";
+  }
+</style> -->
+<style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</style>
+</head>
+
+<body style="margin-top: 0.5; margin-top: 0.5; margin-left: 0.5; margin-right: 0.5;">
+<p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/18/2020</p>
+
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.3;">
@@ -21,7 +50,7 @@
   <a style="color: blue" href="https://github.com/eipapa">GitHub</a>
 </p>
 <br>
-<body style="margin-top: 0.5; margin-top: 0.5; margin-left: 0.5; margin-right: 0.5;">
+
 <h2>Research Interests and Approach</h2>
 <hr>
 <p style="text-align: justify;">
@@ -203,14 +232,14 @@ I use case study research approach to address complex socio-technical questions,
 <li><strong>Pe-Than, E.P.P.</strong>, Nolte, A., Filippova, A., Bird, C., Scallen, S. and Herbsleb, J.D. (2018). "An Empirical Study of Team Familiarity, Goal Setting, and Process in Time-Bounded Events." Poster presented at the 13th Annual Interdisciplinary Network for Group Research Conference (INGRoup’18).</li><br>
 </ol>
 
-<h3>Selected Publications from Archived Research Projects</h3>
+<!-- <h3>Selected Publications from Archived Research Projects</h3>
 <ol reversed="reversed">
 <li><strong>Pe-Than, E.P.P.</strong>, Goh, D.H.-L., and Lee, C.S. (2017). "Does it matter how you play? The effects of collaboration and competition among players of human computation games." Journal of the Association for Information Science and Technology (JASIST), 68 (8), 1823-1835. <a style="color: #4D4D4D" href="https://doi.org/10.1002/asi.23863">https://doi.org/10.1002/asi.23863</a></li><br>
 
 <li><strong>Pe-Than, E.P.P.</strong>, Goh, D.H.-L., and Lee, C.S. (2015). "A typology of human computation games: An analysis and a review of current games." Behaviour and Information Technology, 34 (8), 809-824. <a style="color: #4D4D4D" href="https://doi.org/10.1080/0144929X.2013.862304">https://doi.org/10.1080/0144929X.2013.862304</a></li><br>
 
 <li><strong>Pe-Than, E.P.P.</strong>, Goh, D.H.-L., and Lee, C.S. (2014). "Making work fun: Investigating	antecedents of perceived enjoyment in human computation games for information sharing." Computers in Human Behavior, 39 (2014), 88-99. <a style="color: #4D4D4D" href="https://doi.org/10.1016/j.chb.2014.06.023">https://doi.org/10.1016/j.chb.2014.06.023</a></li><br>
-</ol>
+</ol> -->
 </div>
 
 <!-- <h2 style="page-break-before: always">Teaching</h2> -->
@@ -375,6 +404,13 @@ I use case study research approach to address complex socio-technical questions,
 <!-- Volunteering -->
 <h3>Volunteering</h3>
 <table style="width:100%">
+<tr>
+ <td style="width:20%">2020</td>
+ <td style="width:80%">
+ The SCS Voting Study Committee<br>
+ </td>
+</tr>
+<tr>
  <td style="width:20%">2016</td>
  <td style="width:80%">
  The 66th Annual Conference of the International Communication Association (ICA)<br>

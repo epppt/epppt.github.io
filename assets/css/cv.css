@@ -1,3 +1,5 @@
+/* @import "./fontawesome/scss/fontawesome.scss"; */
+
 h1 {
   font-family: serif;
   text-align: center;
@@ -125,3 +127,26 @@ ul.leaders span + span {
       display: table;
       clear: both;
     }
+
+  /* Step 1: Common Properties: All required to make icons render reliably */
+  .icon::before {
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* Step 2: Reference Individual Icons */
+  .login::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f007";
+  }
+
+  /* Note: Make sure to include the correct weight and unicode value for the icon */
+  .tps::before {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+    content: "\f1ea";
+  }
