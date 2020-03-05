@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in Carnegie Mellon’s School of Computer Science, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.
 
->My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a decentralized distributed software system that builds on a novel and sophisticated coordination architecture that addresses <span style="color:#0EAC00"><strong>reinterpretability, resilience, scalability, and sustainability</strong></span>.
+>My research interests span computer-supported cooperative work (CSCW), science and technologies studies (STS), and critical human-computer interaction (HCI), and especially how to develop, maintain, and evolve a decentralized distributed software system that builds on a novel and sophisticated coordination architecture that addresses <span style="color:#52854c"><strong>reinterpretability, resilience, scalability, and sustainability</strong></span>.
 
 I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
 
