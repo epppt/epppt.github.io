@@ -21,4 +21,4 @@ I use case study research approach to address complex socio-technical questions,
 
 I received my BSc (Hons) in Computer Science from the University of Computer Studies in Yangon, Myanmar, and my PhD and MSc in Information Systems from Nanyang Technological University (NTU) in Singapore. Before doing PhD at NTU, I spent 13 months employed as an application consultant (software developer) at NCS in Singapore where I involved in the development and maintenance of a health information system built on Microsoft .NET Framework.
 
-If you're interested in <span style="color: $sustainable-color"><strong>my new work</strong></span>, read <a href="https://eipapa.github.io/publications">my most recent publications</a>. You can also contact me at <a href="">eipa [at] cmu [dot] edu</a>.
+If you're interested in <span style="color:#52854c"><strong>my new work</strong></span>, read <a href="https://eipapa.github.io/publications">my most recent publications</a>. You can also contact me at <a href="">eipa [at] cmu [dot] edu</a>.
