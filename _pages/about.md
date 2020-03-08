@@ -15,7 +15,7 @@ Hi there! I'm Ei Pa, a postdoctoral associate at <a href="https://www.isri.cmu.e
 
 I use case study research approach to address complex socio-technical questions, which includes ethnography (interviews and non-participant observations), archival analysis, quantitative collection of log and trace data with Python, SQL, and R, and a combination of all of these methods (mixed-methods) as appropriate and relevant.
 
->My current investigation centers on large-scale coordination in software teams that are existing or newly formed, distributed or collocated, building software or non-software artifacts, working in an extremely compressed time scale. The coordination that I have studied to date has taken place either:
+>My current investigation centers on large-scale coordination of software teams that are existing or newly formed, distributed or collocated, building software or non-software artifacts, working in an extremely compressed time scale. The coordination that I have studied to date has taken place either:
 * in events known as hackathons, datathons, etc. on GitHub, where teams of programmers or designers work on developing projects that they are interested in
 * in open-text projects where people on the Internet who may or may not be a part of the core authorship group co-produce text artifacts
 
