@@ -11,11 +11,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-<style>
-    .p-loc {
-      text-align: justify;
-  }
-</style>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -49,9 +45,9 @@
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt p-loc" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description" style="text-align: justify;">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt p-loc" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      <p class="archive__item-excerpt" itemprop="description" style="text-align: justify;">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p>
     {% endif %}
 
     {% if post.citation and post.paperurl %}
