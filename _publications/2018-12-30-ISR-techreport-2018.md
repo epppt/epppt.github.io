@@ -1,3 +1,5 @@
+---
+title: "The 2nd Workshop on Hacking and Making at Time-Bounded Events."
 layout: archive"
 collection: publications
 permalink: /publication/2018-12-30-ISR-techreport-2018
