@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
     .p-cl {
-        text-align: justify;
+        /*text-align: justify;*/
     }
 </style>
 <p class="p-cl" style="color: #4285F4">I'm looking for a postdoc/research scientist position to round out my research portfolio. If you have any leads on these positions please let me know!</p>
