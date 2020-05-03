@@ -34,6 +34,7 @@
 <style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </style>
+    <script src="https://kit.fontawesome.com/a65c30b4bb.js" crossorigin="anonymous"></script>
 </head>
 
 <body style="margin-top: 0.5; margin-top: 0.5; margin-left: 0.5; margin-right: 0.5;">
@@ -42,12 +43,30 @@
 
 <h1>Ei Pa Pa Pe-Than</h1>
 <p style="line-height: 1.3;">
-  <span style="color: blue">eipa [at] cmu [dot] edu</span> |
-  <a style="color: blue" href="https://eipapa.github.io/">https://eipapa.github.io/</a> |
-  <a style="color: blue" href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a> |
-  <a style="color: blue"  href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a> |
-  <a style="color: blue" href="https://twitter.com/eipa01">@eipa01</a> |
-  <a style="color: blue" href="https://github.com/eipapa">GitHub</a>
+  <span>
+    <i class="fas fa-envelope" style="font-size:16px;"></i>
+    <a href="">eipa [at] cmu [dot] edu</a>
+  </span> |
+  <span>
+    <i class="fas fa-globe" style="font-size:16px;"></i>
+    <a href="https://eipapa.github.io/">https://eipapa.github.io/</a>
+  </span> |
+  <span>
+    <i class="fas fa-fw fa-graduation-cap"></i>
+    <a href="https://scholar.google.com/citations?user=U7HARQEAAAAJ&hl=en">Google Scholar</a>
+  </span> |
+  <span>
+    <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i>
+    <a href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a>
+  </span> |
+  <span>
+    <i class="fab fa-twitter" style="font-size:16px;"></i>
+    <a href="https://twitter.com/eipa01">@eipa01</a>
+  </span> |
+  <span>
+    <i class="fab fa-github" style="font-size:16px;"></i>
+    <a href="https://github.com/eipapa">GitHub</a>
+  </span>
 </p>
 <br>
 
