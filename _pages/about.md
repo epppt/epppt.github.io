@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p>I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
-<p style="text-align: justify"><u>RESEARCH</u>. I believe in rigorous, interdisciplinary research. My research is in the field of empirical software engineering with a focus on <b>various ways that developers organize software development work</b> in various settings including scientific, open source, and commercial, adopting research techniques from fields including anthropology, psychology, industrial engineering, and data mining. My research aims to <b>improve productivity and software quality</b>.
+<p style="text-align: justify"><u>RESEARCH</u>. I believe in rigorous, interdisciplinary research. My research is in the field of <b>empirical software engineering</b> with a focus on understanding a variety of ways that developers organize software development work in various settings including scientific, open source, and commercial, adopting research techniques from fields including anthropology, psychology, industrial engineering, and data mining, with an aim to <b>improve productivity and software quality</b>.
 
 <p><u>CONTRIBUTIONS</u>. todo.</p>
 
