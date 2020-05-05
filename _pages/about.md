@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Hi! I'm Ei Pa Pa Pe-Than, a postdoctoral associate at the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 <p style="color: #b00">I'm looking for a postdoc/research scientist position to round out my research portfolio. If you have any leads on these positions please let me know!</p>
-<!--<p>Hi! I'm Ei Pa Pa Pe-Than, a postdoctoral associate at the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>-->
+<p>Hi! I'm Ei Pa Pa Pe-Than, a postdoctoral associate at the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 <p><u>RESEARCH</u>. I believe in rigorous, interdisciplinary research. My research is in the field of empirical software engineering and specifically investigates <b>various ways that developers organize software development work</b> in various settings including scientific, open source, and commercial, adopting research techniques from fields including anthropology, psychology, industrial engineering, and data mining, with an aim to <b>improve the quality of software and productivity</b>.
 <p><u>CONTRIBUTIONS</u>. todo.</p>
 <p><u>ONGOING PROJECTS</u>. My current investigation is around large scale coordination in software development teams in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. Depending on the hackathon design, teams may be consisting of existing or flash/new, distributed or collocated, and building software or non-software artifacts, having diverse goals and objectives, and are working in extremely compressed time scale. The two projects that I am currently working on are:
