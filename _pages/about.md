@@ -7,12 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p>I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
+<p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 <p style="text-align: justify"><u>RESEARCH</u>. I believe in rigorous, interdisciplinary research. My research is in the field of <b>empirical software engineering</b> with a focus on understanding a variety of ways that developers organize software development work in various settings including scientific, open source, and commercial, adopting research techniques from fields including anthropology, psychology, industrial engineering, and data mining, with an aim to <b>improve productivity and software quality</b>.
 
-<p><u>CONTRIBUTIONS</u>. todo.</p>
+<p style="text-align: justify"><u>CONTRIBUTIONS</u>. todo.</p>
 
-<p><u>ONGOING WORK</u>. My current investigation is around large scale coordination in software development teams in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. Depending on the hackathon design, teams may be consisting of existing or flash/new, distributed or collocated, and building software or non-software artifacts, having diverse goals and objectives, and are working in extremely compressed time scale. Here're my current projects:
+<p><u>CURRENT PROJECTS</u>. Most of my current work focuses on
+    My current investigation is around large scale coordination in software development teams in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. Depending on the hackathon design, teams may be consisting of existing or flash/new, distributed or collocated, and building software or non-software artifacts, having diverse goals and objectives, and are working in extremely compressed time scale. Here're my current projects:
 <ul><li><b>Hackathon planning kit</b>. Together with my collaborators, I am constructing a <a href="https://alexandernolte.github.io/hackathon-planning-kit/index.html">hackathon planning kit</a> that will help organizers to configure their events that fit their goals and purposes.</li>
 <li><b>TrackHack</b>. This project aims to trace the spread of code from GitHub hackahton projects listed on DevPost to investigate where the code comes from and where the code lives after the hackathon.</li>
 <li><b>Perfection vs. customization</b>. This project extracts and samples a collection of open-text projects from GitHub, and zoom into the two projects to identify the best practices for writing with GitHub and then develop processes to aid open collaborative writing.</li></ul></p>
