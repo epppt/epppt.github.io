@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm proudly mentored by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
-<p style="text-align: justify"><u>RESEARCH</u>. I believe in rigorous, interdisciplinary research. My research is in the field of <b>empirical software engineering</b> with a focus on understanding a variety of ways that developers organize software development work in various settings including scientific, open source, and commercial, adopting research techniques from fields including anthropology, psychology, industrial engineering, and data mining, with an aim to <b>improve productivity and software quality</b>.
+<p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research (ISR)</a> in the School of Computer Science at Carnegie Mellon University, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. I believe in rigorous, interdisciplinary research. My research is in the field of <b>empirical software engineering</b> and focuses on understanding a variety of ways that developers organize and coordinate software development work in various settings including scientific, open source, and commercial, adopting research techniques from fields including anthropology, psychology, industrial engineering, and data mining, with an aim to <b>improve productivity and software quality</b>.
 
 <p style="text-align: justify"><u>CONTRIBUTIONS</u>. under the construction.</p>
 
@@ -21,4 +21,4 @@ redirect_from:
 
 <p style="text-align: justify"><u>EXPERIENCE</u>. When in Myanmar, I was a tutor at the Software Department at UCSY where I mainly taught the <b>Foundation of Data Structures</b> course to first-year and sophomores. During my time at UCSY, I also gave a few lectures on <b>Operating Systems</b> to juniors. Before PhD at NTU, I spent 13 months as an application consultant at NCS where I audited and provided customer support to the accounting module of an online outpatient administrative system that interfaces both with a superior trusted SAP accounting software used by SingHealth's hospitals and with the system's claim module which then interfaces with the government claim system and other systems used by several insurance companies in SingHealth's network. The outpatient administrative system itself is developed using Microsoft's .NET framework and SQL server. I also implemented and integrated a customer feedback tool with the system.</p>
 
-<p style="text-align: justify"><u>NEW WORK</u>. If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="">eipa [at] cmu [dot] edu</a> for more questions and feedback about my new work.</p>
+<p style="text-align: justify"><u>NEW WORK</u>. If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <b>eipa[at]cmu[dot]edu</b> for more questions about my new work.</p>
