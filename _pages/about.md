@@ -12,10 +12,10 @@ redirect_from:
 
 <p style="text-align: justify"><u>CONTRIBUTIONS</u>. under the construction.</p>
 
-<p style="text-align: justify"><u>CURRENT PROJECTS</u>. Most of my current work focuses on large scale coordination in software development work in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. I'm particularly working on the following three projects:
+<p style="text-align: justify"><u>CURRENT PROJECTS</u>. Most of my current work focuses on large scale coordination in software development work in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. Specifically, I'm working on the following three projects:
 <ul style="text-align: justify"><li><b>Hackathon planning kit</b>. Together with my collaborators, I am developing a <a href="https://alexandernolte.github.io/hackathon-planning-kit/index.html">hackathon planning kit</a> that will help organizers to configure their events in a way that fits their goals and purposes.</li>
 <li><b>TrackHack</b>. This project aims to trace the spread of code from GitHub hackahton projects listed on DevPost to investigate where the code comes from and where the code lives after the hackathon.</li>
-<li><b>Perfection vs. customization</b>. This project extracts and samples a collection of open-text projects from GitHub, and zoom into the two projects to identify the best practices for writing with GitHub and then develop processes to aid open collaborative writing. The paper written on this topic had been rejected many times but we commit to make some improvements and resubmit it again.</li></ul></p>
+<li><b>Open collaborative writing with GitHub</b>. This project extracts and samples a collection of open-text projects from GitHub, and zoom into the two projects to identify the best practices for writing with GitHub and then develop processes to aid open collaborative writing. The paper written on this topic had been rejected many times but we commit to make some improvements and resubmit it again.</li></ul></p>
 
 <p style="text-align: justify"><u>EDUCATION</u>. I has a PhD in information science from Nanyang Technological University (NTU) in Singapore and a MSc in information systems which is a joint program of the School of Computer Engineering and Wee Kim Wee School of Communication and Information, and a BSc (Hons) in computer science from the University of Computer Studies, Yangon (UCSY) in Myanmar.</p>
 
