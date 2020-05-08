@@ -13,7 +13,7 @@ redirect_from:
 
 <p style="text-align: justify"><u>RESEARCH APPROACH</u>. I adopt interdisciplinary approach to solve complex coordination problems in software engineering. todo.</p>
 
-<p style="text-align: justify"><b>APPLICATIONS</b>. </p>
+<p style="text-align: justify"><u>APPLICATIONS</u>. todo.</p>
 
 <p style="text-align: justify"><u>CONTRIBUTIONS</u>. My research contributes to organization and coordination of the development of both software and non-software work as described below:
 <ul style="text-align: justify">
