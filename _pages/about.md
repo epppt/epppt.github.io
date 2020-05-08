@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> in the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 
-<p style="text-align: justify"><u>RESEARCH</u>. My work is in the field of empirical software engineering and focuses on the topic of understanding a variety of ways that developers organize and coordinate software development work in various settings including scientific, open source and commercial, with an aim to <b>building a mathematical foundation for distributed software systems that will lead to dynamic techniques for organization and coordination of distributed work efficiently and effectively</b>.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. My work is in the field of empirical software engineering and focuses on the topic of understanding a variety of ways that developers organize and coordinate software development work in various settings including scientific, open source and commercial, with an aim to <b>building a mathematical foundation for distributed software systems that will lead to enhanced techniques for dynamic organization and coordination of distributed work efficiently and effectively</b>.</p>
 
 <p style="text-align: justify"><u>RESEARCH APPROACH</u>. I adopt interdisciplinary approach to solve complex coordination problems in software engineering. todo.</p>
 
