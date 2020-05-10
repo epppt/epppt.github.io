@@ -9,19 +9,26 @@ redirect_from:
 ---
 <p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> in the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 
-<p style="text-align: justify"><u>RESEARCH</u>. My work is in the field of empirical software engineering and focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for dynamic organization and coordination of distributed work more efficiently and effectively</b>. Central to this research effort is the technical challenge of multi-party integration of software development work done in various settings including multidisciplinary and local / global. This multidisciplinary research topic overlaps the fields of ethnography, social and cognitive psychology, industrial engineering, and data mining, and has many applications in areas as diverse as scientific, open source and commercial software development.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for organization and coordination of distributed work dynamically, efficiently and effectively</b>. Central to this research effort is the technical challenge of multi-party integration of software development work done in various settings including scientific / open source / commercial and local / global. This multidisciplinary research topic overlaps the fields of anthropology, psychology, industrial engineering and data mining, and has many applications in areas as diverse as medicine, education, and open collaborative writing.</p>
 
-<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to organization and coordination of both software and non-software work as described below:
-<ul style="text-align: justify">
-    <li><b>Software</b>: under the construction.</li>
-    <li><b>Non-software</b>: under the construction.</li>
+<!--<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to organization and coordination of work in both software and non-software development settings as described below:-->
+<!--<ul style="text-align: justify">-->
+<!--    <li><b>Software</b>: under the construction.</li>-->
+<!--    <li><b>Non-software</b>: under the construction.</li>-->
+<!--</ul>-->
+<!--</p>-->
+
+<p style="text-align: justify"><u>CURRENT PROJECTS</u>.
+<ul>
+    <li><b>Hackathons</b>. todo</li>
+    <li><b>Open-collaborative writing</b>. todo</li>
 </ul>
 </p>
 
-<p style="text-align: justify"><u>CURRENT PROJECTS</u>. Most of my current work focuses on large scale coordination in software development work in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. Specifically, I'm working on the following three projects:
-<ul style="text-align: justify"><li><b>Hackathon planning kit</b>. Together with my collaborators, I am developing a <a href="https://alexandernolte.github.io/hackathon-planning-kit/index.html">hackathon planning kit</a> that will help organizers to configure their events in a way that fits their goals and purposes.</li>
-<li><b>TrackHack</b>. This project aims to trace the spread of code from GitHub hackahton projects listed on DevPost to investigate where the code comes from and where the code lives after the hackathon.</li>
-<li><b>Open collaborative writing with GitHub</b>. This project extracts and samples a collection of open-text projects from GitHub, and zoom into the two projects to identify the best practices for writing with GitHub and then develop processes to aid open collaborative writing.</li></ul></p>
+<!--Most of my current work focuses on large scale coordination in software development work in time-bounded events known as <a href="https://eipapa.github.io/hackathon-planning-kit/hackathons/">hackathons</a>. Specifically, I'm working on the following three projects:-->
+<!--<ul style="text-align: justify"><li><b>Hackathon planning kit</b>. Together with my collaborators, I am developing a <a href="https://alexandernolte.github.io/hackathon-planning-kit/index.html">hackathon planning kit</a> that will help organizers to configure their events in a way that fits their goals and purposes.</li>-->
+<!--<li><b>TrackHack</b>. This project aims to trace the spread of code from GitHub hackahton projects listed on DevPost to investigate where the code comes from and where the code lives after the hackathon.</li>-->
+<!--<li><b>Open collaborative writing with GitHub</b>. This project extracts and samples a collection of open-text projects from GitHub, and zoom into the two projects to identify the best practices for writing with GitHub and then develop processes to aid open collaborative writing.</li></ul></p>-->
 
 <p style="text-align: justify"><u>EDUCATION</u>. I received a PhD in information science from the Wee Kim Wee School of Communication and Information in the Nanyang Technological University (NTU) in Singapore and a MSc in information systems, a joint program of the School of Computer Engineering and Wee Kim Wee School of Communication and Information at NTU. I have a BSc (Honors) in computer science from the University of Computer Studies, Yangon (UCSY) in Myanmar.</p>
 
