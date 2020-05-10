@@ -9,19 +9,14 @@ redirect_from:
 ---
 <p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> in the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 
-<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for organization and coordination of distributed work dynamically, efficiently and effectively</b>. Central to this research effort is the socio-technical challenge of understanding a variety of ways that developers organize and coordinate software development work and allocation and integration of work done by multiple parties in various settings including scientific / open source / commercial and local / global. This multidisciplinary research topic overlaps the fields of anthropology, psychology, industrial engineering and data mining, and has many applications in areas as diverse as medicine, education, and open collaborative writing.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for organization and coordination of distributed work dynamically, efficiently and effectively</b>. Central to this research effort is the socio-technical challenge of understanding a variety of ways that developers organize and coordinate software development work and allocation and integration of work done by multiple parties in various platforms and settings including scientific / open source / commercial and local / global. This multidisciplinary research topic overlaps the fields of anthropology, psychology, industrial engineering and data mining, and has many applications in areas as diverse as urban planning, medicine, education, and open collaborative writing.</p>
 
-<!--<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to organization and coordination of work in both software and non-software development settings as described below:-->
-<!--<ul style="text-align: justify">-->
-<!--    <li><b>Software</b>: under the construction.</li>-->
-<!--    <li><b>Non-software</b>: under the construction.</li>-->
-<!--</ul>-->
-<!--</p>-->
+<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to the theory of organization and coordination of work in both software and non-software development settings.</p>
 
 <p style="text-align: justify"><u>CURRENT PROJECTS</u>.
 <ul>
-    <li><b>Hackathons</b>. todo</li>
-    <li><b>Open-collaborative writing</b>. todo</li>
+    <li><b>Hackathons</b> (Software). todo</li>
+    <li><b>Open-collaborative writing</b> (Non-software). todo</li>
 </ul>
 </p>
 
