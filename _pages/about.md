@@ -13,7 +13,7 @@ redirect_from:
 
 <p>If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:eipa[at]cmu.edu">eipa[at]cmu[dot]edu</a> for more questions about my new work.</p>
 
-<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to CSCW and specifically the computing theory of organization and coordination of work in development of <i>both</i> software / code and non-software / non-code.</p>
+<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to the computational theory of organization and coordination in development of <i>both</i> software / code and non-software / non-code work in distributed setting.</p>
 
 <p style="text-align: justify"><u>CURRENT RESEARCH PROJECTS</u>.
 <ul>
