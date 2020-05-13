@@ -11,7 +11,7 @@ redirect_from:
 
 <p style="text-align: justify"><u>RESEARCH</u>. My research focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for organization and coordination of distributed work dynamically, efficiently and effectively</b>. Central to this research effort is the socio-technical challenge of understanding a variety of ways that developers organize and coordinate software development work <i>and</i> allocating and integrating work to and done by multiple parties working across various platforms and in various settings from scientific, open source to commercial, from local to global, and from cyber, social,  to physical. This multidisciplinary research topic overlaps the fields of ethnography, psychology, industrial engineering and data mining, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.</p>
 
-<p>If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:eipa@cmu.edu">eipa@cmu.edu</a> for more questions about my new work.</p>
+<p>If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <address><a href="mailto:eipa@cmu.edu">eipa@cmu.edu</a></address> for more questions about my new work.</p>
 
 <p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to CSCW and specifically the computing theory of organization and coordination of work in development of <i>both</i> software / code and non-software / non-code.</p>
 
