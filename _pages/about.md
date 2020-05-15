@@ -9,16 +9,24 @@ redirect_from:
 ---
 <p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> in the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 
-<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for organization and coordination of distributed work dynamically, securely, and sustainability</b>. Central to this research effort is the socio-technical challenge of understanding how to organize and coordinate work done across platforms and in settings from scientific, open source to commercial, from local to global, and from physical to digital and how to allocate and prevent resources that are particularly subtractable from over utilization. This multidisciplinary research topic overlaps the fields of philosophy, computer science, software engineering, machine learning, sociology and economics, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on <b>building a computational foundation for distributed software systems that will lead to enhanced techniques for organization and coordination of distributed work dynamically, securely, and sustainability</b>. Central to this research effort is the socio-technical challenge of understanding how to organize and coordinate work done across platforms and in settings from scientific, open source to commercial, from local to global, from collocated to distributed, from centralized to decentralized, ... <i>and</i> how to allocate and prevent resources that are particularly subtractable from over utilization. This multidisciplinary research topic overlaps the fields of philosophy, computer science, software engineering, machine learning, sociology and economics, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.</p>
 
 <p>If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:eipa[at]cmu.edu">eipa[at]cmu[dot]edu</a> for more questions about my new work.</p>
 
-<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to the computational theory of organization and coordination in development of <i>both</i> software / code and non-software / non-code work in distributed setting.</p>
+<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to the computational theory of organization and coordination in development of both software/code and non-software/non-code work in a cyber-physical system.</p>
 
 <p style="text-align: justify"><u>CURRENT RESEARCH PROJECTS</u>.
 <ul>
-    <li><b>Hackathons</b> (Software / code). todo</li>
-    <li><b>Open-collaborative writing</b> (Non-software / non-code). todo</li>
+    <li><b>Hackathons</b>.
+        <p>Mostly done. todo</p>
+        <p>Halfway done. todo</p>
+        <p>Future work. todo</p>
+    </li>
+    <li><b>Open-collaborative writing</b>.
+        <p>Mostly done. todo</p>
+        <p>Halfway done. todo</p>
+        <p>Future work. todo</p>
+    </li>
 </ul>
 </p>
 
