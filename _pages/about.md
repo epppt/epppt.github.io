@@ -9,13 +9,13 @@ redirect_from:
 ---
 <p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> in the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 
-<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on building a computational foundation for the dynamic creation and deployment of mobile sub ad-hoc networks in a distributed network effectively and efficiently. This work has many applications in areas from crisis management to education to literally any areas that deal with resource allocation.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on building a computational theory of the creation, allocation, and deployment of mobile ad-hoc groups in a distributed complex uncertain environment effectively and efficiently. This work has many applications in areas from crisis management to education to literally any areas that deal with resource allocation.</p>
 
 <!--Central to this research effort is the socio-technical challenge of understanding how coordination unfolds in both open and close platforms and in settings ranging from scientific, open source to commercial, from local to global, from collocated to distributed, from physical or digital,  from centralized to decentralized to hybrid, .... This multidisciplinary research topic overlaps the fields of philosophy, mathematics, computer science, software engineering, machine learning, psychology, sociology and economics, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.-->
 
 <p>If you're interested in <b>my new work</b>, read <a href="https://eipapa.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:eipa[at]cmu.edu">eipa[at]cmu[dot]edu</a> for more questions about my new work.</p>
 
-<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. My research contributes to the computational theory of organization and coordination in development of both software/code and non-software/non-code work in a cyber-physical system.</p>
+<p style="text-align: justify"><u>RESEARCH CONTRIBUTIONS</u>. Under the development.</p>
 
 <p style="text-align: justify"><u>CURRENT RESEARCH PROJECTS</u>.
 <ul>
