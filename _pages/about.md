@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="text-align: justify">I'm a postdoctoral associate of the <a href="https://www.isri.cmu.edu/">Institute for Software Research</a> in the School of Computer Science at Carnegie Mellon University in Pittsburgh, Pennsylvania, USA, where I'm advised by <a href="https://herbsleb.org/">James Herbsleb</a>.</p>
 
-<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on building a computational foundation for the dynamic creation and deployment of mobile sub ad-hoc networks in a distributed network effectively and efficiently. This work has many applications in areas from disaster management to education to literally any areas that deal with resource allocation.</p>
+<p style="text-align: justify"><u>RESEARCH</u>. My research focuses on building a computational foundation for the dynamic creation and deployment of mobile sub ad-hoc networks in a distributed network effectively and efficiently. This work has many applications in areas from crisis management to education to literally any areas that deal with resource allocation.</p>
 
 <!--Central to this research effort is the socio-technical challenge of understanding how coordination unfolds in both open and close platforms and in settings ranging from scientific, open source to commercial, from local to global, from collocated to distributed, from physical or digital,  from centralized to decentralized to hybrid, .... This multidisciplinary research topic overlaps the fields of philosophy, mathematics, computer science, software engineering, machine learning, psychology, sociology and economics, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.-->
 
