@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Ei Pa Pa Pe-Than."
+title: "Hi, I'm Ei Pa Pa Pe Than."
 excerpt: "About me"
 author_profile: true
 redirect_from:
