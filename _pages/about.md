@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- Central to this research effort is the socio-technical challenge of understanding how coordination unfolds in both open and close platforms and in settings ranging from scientific, open source to commercial, from local to global, from collocated to distributed, from physical or digital,  from centralized to decentralized to hybrid, .... This multidisciplinary research topic overlaps the fields of philosophy, mathematics, computer science, software engineering, machine learning, psychology, sociology and economics, and has many applications in areas from astronomy, medicine, robotics, to open collaborative writing.-->
 
-<p>If you're interested in <b>my new work</b>, read <a href="https://epppt.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:eipa@cmu.edu">pethan.eipapa [at] gmail.com</a> for more questions about my new work.</p>
+<p>If you're interested in <b>my new work</b>, read <a href="https://epppt.github.io/publications">my most recent papers</a>. You can also reach out to me at <a href="mailto:pethan.eipapa [at] gmail.com">pethan.eipapa [at] gmail.com</a> for more questions about my new work.</p>
 
 <!--<p style="text-align: justify"><u>CURRENT RESEARCH PROJECTS</u>.
 <ul>
