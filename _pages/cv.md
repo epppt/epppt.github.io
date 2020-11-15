@@ -41,7 +41,7 @@
 <p style="line-height: 1px; text-align: right; font-size: 16px; color: #4D4D4D;"> Last modified at 02/21/2020</p>
 
 
-<h1>Ei Pa Pa Pe-Than</h1>
+<h1>Ei Pa Pa Pe Than</h1>
 <p style="line-height: 1.3;">
   <span>
     <i class="fas fa-envelope" style="font-size:16px;"></i>
@@ -49,7 +49,7 @@
   </span> |
   <span>
     <i class="fas fa-globe" style="font-size:16px;"></i>
-    <a href="https://eipapa.github.io/">https://eipapa.github.io/</a>
+    <a href="https://epppt.github.io/">https://epppt.github.io/</a>
   </span> |
   <span>
     <i class="fas fa-fw fa-graduation-cap"></i>
@@ -57,15 +57,15 @@
   </span> |
   <span>
     <i class="fab fa-fw fa-researchgate" aria-hidden="true"></i>
-    <a href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe-Than">Research Gate</a>
+    <a href="https://www.researchgate.net/profile/Ei_Pa_Pa_Pe_Than">Research Gate</a>
   </span> |
   <span>
     <i class="fab fa-twitter" style="font-size:16px;"></i>
-    <a href="https://twitter.com/eipa01">@eipa01</a>
+    <a href="https://twitter.com/epppethan">@eipa01</a>
   </span> |
   <span>
     <i class="fab fa-github" style="font-size:16px;"></i>
-    <a href="https://github.com/eipapa">GitHub</a>
+    <a href="https://github.com/epppt">GitHub</a>
   </span>
 </p>
 <br>
